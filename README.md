@@ -2,7 +2,7 @@
 
 Decentralized polling system. Designed for polling in scenarios where aggregators can't be trusted. 
 
-Built w/ Hardhat, Solidity, React, wagmi. Deployed on 
+Built w/ Hardhat, Solidity, React, and wagmi. Deployed on Polygon.
 
 ## TODO:
 
